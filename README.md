@@ -9,7 +9,8 @@ This is a simple python script that can be used to **run shell commands** that h
 - and then type some shell code!
 
 
-###
+### ![proof](https://github.com/user-attachments/assets/4efd10fb-02f3-47f1-a9c2-14f163d93c12)
+
 
 
 ### Find Me on
