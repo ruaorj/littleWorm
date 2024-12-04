@@ -1,5 +1,15 @@
 import socket
 
+ascii_art = '''
+  oo
+   |"
+   |
+ --'    -   littleWorm
+'''
+
+print(ascii_art)
+
+
 host = "127.0.0.1"
 port = 666
 
