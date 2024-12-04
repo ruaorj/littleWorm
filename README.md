@@ -7,9 +7,9 @@ This is a simple python script that can be used to **run shell commands** that h
 
 # How to use
 
-- sudo python server.py
-- sudo python client.py
-- and then type some shell code!
+1- sudo python server.py
+2- sudo python client.py
+3- and then type some shell code!
 
 ### Find Me on
 <a href="https://linktr.ee/Mass4cre_P0int" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
