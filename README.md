@@ -7,9 +7,14 @@ This is a simple python script that can be used to **run shell commands** that h
 
 # How to use
 
-- sudo python server.py
-- sudo python client.py
-- and then type some shell code!
+# 1. Give execute permission
+chmod +x setup.sh main.sh
+
+# 2. Install required dependencies
+./setup.sh
+
+# 3. Run the main script
+./main.sh
 
 ### Find Me on
 <a href="https://linktr.ee/Mass4cre_P0int" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
